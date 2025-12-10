@@ -14,7 +14,7 @@ import java.util.List;
  * Configuración de OpenAPI/Swagger para la documentación de la API.
  * Personaliza la información mostrada en la interfaz de Swagger UI.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @Configuration

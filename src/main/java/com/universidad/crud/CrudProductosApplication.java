@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Clase principal de la aplicación Spring Boot.
  * Punto de entrada para la API RESTful de gestión de productos.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @SpringBootApplication

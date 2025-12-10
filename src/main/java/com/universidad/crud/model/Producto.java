@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
  * Entidad que representa un Producto en el sistema.
  * Mapeada a la tabla 'productos' en la base de datos mediante JPA/Hibernate.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @Entity

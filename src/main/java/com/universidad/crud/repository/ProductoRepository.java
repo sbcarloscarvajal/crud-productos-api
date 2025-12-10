@@ -14,7 +14,7 @@ import java.util.List;
  * Proporciona operaciones CRUD mediante Spring Data JPA.
  * Extiende JpaRepository para heredar métodos estándar de persistencia.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @Repository

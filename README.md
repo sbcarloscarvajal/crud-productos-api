@@ -255,8 +255,8 @@ La API implementa un manejo global de errores que retorna respuestas consistente
 
 ## 👨‍💻 Autor
 
-**Estudiante**  
-Módulo: Arquitectura de Aplicaciones Web  
+**Carlos Andres Carvajal Rivera**  
+Modulo: Arquitectura de Aplicaciones Web  
 Unidad 2 - Actividad Sumativa
 
 ---

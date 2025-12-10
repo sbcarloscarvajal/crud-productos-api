@@ -9,7 +9,7 @@ import java.util.List;
  * Interfaz que define los servicios de negocio para la gestión de productos.
  * Define las operaciones CRUD y métodos adicionales de búsqueda.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 public interface ProductoService {

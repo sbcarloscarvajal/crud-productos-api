@@ -23,7 +23,7 @@ import java.util.List;
  * Controlador REST para la gestión de productos.
  * Expone los endpoints para realizar operaciones CRUD sobre productos.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @RestController

@@ -13,7 +13,7 @@ import java.time.LocalDateTime;
  * DTO (Data Transfer Object) para enviar datos de producto en las respuestas.
  * Encapsula la información del producto que se devuelve al cliente.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @Data

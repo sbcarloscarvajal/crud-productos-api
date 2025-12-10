@@ -12,7 +12,7 @@ import java.math.BigDecimal;
  * DTO (Data Transfer Object) para recibir datos de producto en las peticiones.
  * Utilizado en operaciones de creación y actualización de productos.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @Data

@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
  * Excepción personalizada para recursos no encontrados.
  * Se lanza cuando se intenta acceder a un recurso que no existe en la base de datos.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @ResponseStatus(value = HttpStatus.NOT_FOUND)

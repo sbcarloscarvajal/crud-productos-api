@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
  * Intercepta las excepciones lanzadas por los controladores y las convierte
  * en respuestas HTTP estructuradas y consistentes.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @RestControllerAdvice

@@ -13,7 +13,7 @@ import java.util.List;
  * Clase que representa la estructura de respuesta de error.
  * Proporciona información detallada sobre los errores ocurridos.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @Data

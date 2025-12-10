@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
  * Implementación de los servicios de negocio para la gestión de productos.
  * Contiene la lógica de negocio y coordina las operaciones entre el controlador y el repositorio.
  * 
- * @author Estudiante
+ * @author Carlos Andres Carvajal Rivera
  * @version 1.0.0
  */
 @Service
