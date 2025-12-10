@@ -37,9 +37,9 @@ public class OpenApiConfig {
                                 "Desarrollado como parte de la Actividad Sumativa - Unidad 2 " +
                                 "del módulo Arquitectura de Aplicaciones Web.")
                         .contact(new Contact()
-                                .name("Estudiante")
-                                .email("estudiante@universidad.edu.co")
-                                .url("https://github.com/estudiante"))
+                                .name("Carlos Andres Carvajal Rivera")
+                                .email("carlos.carvajal@segurosbolivar.com")
+                                .url("https://github.com/sbcarloscarvajal"))
                         .license(new License()
                                 .name("MIT License")
                                 .url("https://opensource.org/licenses/MIT")))
